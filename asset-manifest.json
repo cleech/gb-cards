@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gb-cards/static/css/main.a55b6630.css",
-    "main.js": "/gb-cards/static/js/main.1d1f824d.js",
+    "main.js": "/gb-cards/static/js/main.4eda8449.js",
     "static/js/787.58dce099.chunk.js": "/gb-cards/static/js/787.58dce099.chunk.js",
     "static/media/beacon-00.jpg": "/gb-cards/static/media/beacon-00.8f86891cec58a1859d4b.jpg",
     "static/media/heat-01.jpg": "/gb-cards/static/media/heat-01.2f84d322d7261b88bdb5.jpg",
@@ -469,11 +469,11 @@
     "static/media/Order_back.jpg": "/gb-cards/static/media/Order_back.0a7d445d7f43f6c53b65.jpg",
     "index.html": "/gb-cards/index.html",
     "main.a55b6630.css.map": "/gb-cards/static/css/main.a55b6630.css.map",
-    "main.1d1f824d.js.map": "/gb-cards/static/js/main.1d1f824d.js.map",
+    "main.4eda8449.js.map": "/gb-cards/static/js/main.4eda8449.js.map",
     "787.58dce099.chunk.js.map": "/gb-cards/static/js/787.58dce099.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a55b6630.css",
-    "static/js/main.1d1f824d.js"
+    "static/js/main.4eda8449.js"
   ]
 }
