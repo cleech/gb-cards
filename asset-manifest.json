@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gb-cards/static/css/main.a55b6630.css",
-    "main.js": "/gb-cards/static/js/main.4eda8449.js",
+    "main.css": "/gb-cards/static/css/main.66c6c37f.css",
+    "main.js": "/gb-cards/static/js/main.3df1f6a9.js",
     "static/js/787.58dce099.chunk.js": "/gb-cards/static/js/787.58dce099.chunk.js",
     "static/media/beacon-00.jpg": "/gb-cards/static/media/beacon-00.8f86891cec58a1859d4b.jpg",
     "static/media/heat-01.jpg": "/gb-cards/static/media/heat-01.2f84d322d7261b88bdb5.jpg",
@@ -468,12 +468,12 @@
     "static/media/GB-S4-Morticians-19-08-10.jpg": "/gb-cards/static/media/GB-S4-Morticians-19-08-10.91d713826c44a15ef0c0.jpg",
     "static/media/Order_back.jpg": "/gb-cards/static/media/Order_back.0a7d445d7f43f6c53b65.jpg",
     "index.html": "/gb-cards/index.html",
-    "main.a55b6630.css.map": "/gb-cards/static/css/main.a55b6630.css.map",
-    "main.4eda8449.js.map": "/gb-cards/static/js/main.4eda8449.js.map",
+    "main.66c6c37f.css.map": "/gb-cards/static/css/main.66c6c37f.css.map",
+    "main.3df1f6a9.js.map": "/gb-cards/static/js/main.3df1f6a9.js.map",
     "787.58dce099.chunk.js.map": "/gb-cards/static/js/787.58dce099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a55b6630.css",
-    "static/js/main.4eda8449.js"
+    "static/css/main.66c6c37f.css",
+    "static/js/main.3df1f6a9.js"
   ]
 }
