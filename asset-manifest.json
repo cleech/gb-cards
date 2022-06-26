@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/gb-cards/static/css/main.b44c6f8b.css",
-    "main.js": "/gb-cards/static/js/main.24f2ab56.js",
+    "main.css": "/gb-cards/static/css/main.f851b828.css",
+    "main.js": "/gb-cards/static/js/main.bdf71d00.js",
     "static/js/787.58dce099.chunk.js": "/gb-cards/static/js/787.58dce099.chunk.js",
     "static/media/beacon-00.jpg": "/gb-cards/static/media/beacon-00.8f86891cec58a1859d4b.jpg",
+    "static/media/playbook-symbol-defs.svg": "/gb-cards/static/media/playbook-symbol-defs.84d1771e4e78474d89198ef14a97f119.svg",
     "static/media/heat-01.jpg": "/gb-cards/static/media/heat-01.2f84d322d7261b88bdb5.jpg",
     "static/media/nightlight-01.jpg": "/gb-cards/static/media/nightlight-01.ddd945f1c6c56ee3ba24.jpg",
     "static/media/beacon-01.jpg": "/gb-cards/static/media/beacon-01.c3fc35f41139773c9993.jpg",
@@ -12,6 +13,7 @@
     "static/media/wick-00.jpg": "/gb-cards/static/media/wick-00.956a6e4435ce5c2d6aee.jpg",
     "static/media/phosphor-00.jpg": "/gb-cards/static/media/phosphor-00.99a40caf957d07eee0c6.jpg",
     "static/media/wick-01.jpg": "/gb-cards/static/media/wick-01.758ce6b16f8ea7f7b573.jpg",
+    "static/media/gb-symbol-defs.svg": "/gb-cards/static/media/gb-symbol-defs.a3a26b617182cf928aac29946e11f27c.svg",
     "static/media/soot-00.jpg": "/gb-cards/static/media/soot-00.26875e0fa97f040b247e.jpg",
     "static/media/phosphor-01.jpg": "/gb-cards/static/media/phosphor-01.99a9ddffc546bd851bf5.jpg",
     "static/media/GB-S4-Butchers-19-08-02.jpg": "/gb-cards/static/media/GB-S4-Butchers-19-08-02.dcd8e9cb2e64af961d32.jpg",
@@ -468,12 +470,12 @@
     "static/media/GB-S4-Morticians-19-08-10.jpg": "/gb-cards/static/media/GB-S4-Morticians-19-08-10.91d713826c44a15ef0c0.jpg",
     "static/media/Order_back.jpg": "/gb-cards/static/media/Order_back.0a7d445d7f43f6c53b65.jpg",
     "index.html": "/gb-cards/index.html",
-    "main.b44c6f8b.css.map": "/gb-cards/static/css/main.b44c6f8b.css.map",
-    "main.24f2ab56.js.map": "/gb-cards/static/js/main.24f2ab56.js.map",
+    "main.f851b828.css.map": "/gb-cards/static/css/main.f851b828.css.map",
+    "main.bdf71d00.js.map": "/gb-cards/static/js/main.bdf71d00.js.map",
     "787.58dce099.chunk.js.map": "/gb-cards/static/js/787.58dce099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b44c6f8b.css",
-    "static/js/main.24f2ab56.js"
+    "static/css/main.f851b828.css",
+    "static/js/main.bdf71d00.js"
   ]
 }
