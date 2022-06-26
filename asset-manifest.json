@@ -1,8 +1,30 @@
 {
   "files": {
-    "main.css": "/gb-cards/static/css/main.f851b828.css",
-    "main.js": "/gb-cards/static/js/main.bdf71d00.js",
+    "main.css": "/gb-cards/static/css/main.e75d649b.css",
+    "main.js": "/gb-cards/static/js/main.d274ced9.js",
     "static/js/787.58dce099.chunk.js": "/gb-cards/static/js/787.58dce099.chunk.js",
+    "static/media/cast-00.png": "/gb-cards/static/media/cast-00.e812f221d27b7cb34947.png",
+    "static/media/steeljaw-00.png": "/gb-cards/static/media/steeljaw-00.cb357cc0a966f9d8a7e3.png",
+    "static/media/tenderiser-00.png": "/gb-cards/static/media/tenderiser-00.df4497be237db78145b3.png",
+    "static/media/crook-01.png": "/gb-cards/static/media/crook-01.697213a9678fe08758dd.png",
+    "static/media/cast-01.png": "/gb-cards/static/media/cast-01.7a95f1f90b30839ca09b.png",
+    "static/media/steeljaw-01.png": "/gb-cards/static/media/steeljaw-01.cd308a8d76f31c953905.png",
+    "static/media/lucky-00.png": "/gb-cards/static/media/lucky-00.dc4676408009df2efae7.png",
+    "static/media/hook-01.png": "/gb-cards/static/media/hook-01.af512c7ae5fed21548ce.png",
+    "static/media/miasma-00.png": "/gb-cards/static/media/miasma-00.29e20893f055235c3f42.png",
+    "static/media/ikaros-00.png": "/gb-cards/static/media/ikaros-00.2e6672fb63c8f651a2cf.png",
+    "static/media/tenderiser-01.png": "/gb-cards/static/media/tenderiser-01.7096f095e0994794229c.png",
+    "static/media/brisket3-00.png": "/gb-cards/static/media/brisket3-00.0343c4cf790aa2ea7991.png",
+    "static/media/miasma-01.png": "/gb-cards/static/media/miasma-01.41575bf1ab2846e7a038.png",
+    "static/media/hook-00.png": "/gb-cards/static/media/hook-00.9c4b4d78614fc4d18636.png",
+    "static/media/crook-00.png": "/gb-cards/static/media/crook-00.b8289979cfc1bace184c.png",
+    "static/media/minx-00.png": "/gb-cards/static/media/minx-00.7a6939f782f1467410ac.png",
+    "static/media/egret-00.png": "/gb-cards/static/media/egret-00.c268d2f695fa1716465a.png",
+    "static/media/brisket3-01.png": "/gb-cards/static/media/brisket3-01.8137d79217fe8910d61b.png",
+    "static/media/egret-01.png": "/gb-cards/static/media/egret-01.3c03b621802ba38c55c1.png",
+    "static/media/lucky-01.png": "/gb-cards/static/media/lucky-01.b3aeb1f8b4f1cebe57ca.png",
+    "static/media/ikaros-01.png": "/gb-cards/static/media/ikaros-01.fb4a2c9f3ba3e01c7f19.png",
+    "static/media/minx-01.png": "/gb-cards/static/media/minx-01.18d35f37ac5f23805b6a.png",
     "static/media/beacon-00.jpg": "/gb-cards/static/media/beacon-00.8f86891cec58a1859d4b.jpg",
     "static/media/playbook-symbol-defs.svg": "/gb-cards/static/media/playbook-symbol-defs.84d1771e4e78474d89198ef14a97f119.svg",
     "static/media/heat-01.jpg": "/gb-cards/static/media/heat-01.2f84d322d7261b88bdb5.jpg",
@@ -13,7 +35,7 @@
     "static/media/wick-00.jpg": "/gb-cards/static/media/wick-00.956a6e4435ce5c2d6aee.jpg",
     "static/media/phosphor-00.jpg": "/gb-cards/static/media/phosphor-00.99a40caf957d07eee0c6.jpg",
     "static/media/wick-01.jpg": "/gb-cards/static/media/wick-01.758ce6b16f8ea7f7b573.jpg",
-    "static/media/gb-symbol-defs.svg": "/gb-cards/static/media/gb-symbol-defs.a3a26b617182cf928aac29946e11f27c.svg",
+    "static/media/gb-symbol-defs.svg": "/gb-cards/static/media/gb-symbol-defs.f0e83b42b10491b6bb85eebb88578249.svg",
     "static/media/soot-00.jpg": "/gb-cards/static/media/soot-00.26875e0fa97f040b247e.jpg",
     "static/media/phosphor-01.jpg": "/gb-cards/static/media/phosphor-01.99a9ddffc546bd851bf5.jpg",
     "static/media/GB-S4-Butchers-19-08-02.jpg": "/gb-cards/static/media/GB-S4-Butchers-19-08-02.dcd8e9cb2e64af961d32.jpg",
@@ -470,12 +492,12 @@
     "static/media/GB-S4-Morticians-19-08-10.jpg": "/gb-cards/static/media/GB-S4-Morticians-19-08-10.91d713826c44a15ef0c0.jpg",
     "static/media/Order_back.jpg": "/gb-cards/static/media/Order_back.0a7d445d7f43f6c53b65.jpg",
     "index.html": "/gb-cards/index.html",
-    "main.f851b828.css.map": "/gb-cards/static/css/main.f851b828.css.map",
-    "main.bdf71d00.js.map": "/gb-cards/static/js/main.bdf71d00.js.map",
+    "main.e75d649b.css.map": "/gb-cards/static/css/main.e75d649b.css.map",
+    "main.d274ced9.js.map": "/gb-cards/static/js/main.d274ced9.js.map",
     "787.58dce099.chunk.js.map": "/gb-cards/static/js/787.58dce099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f851b828.css",
-    "static/js/main.bdf71d00.js"
+    "static/css/main.e75d649b.css",
+    "static/js/main.d274ced9.js"
   ]
 }
