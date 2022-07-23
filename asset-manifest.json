@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gb-cards/static/css/main.cdc1159c.css",
-    "main.js": "/gb-cards/static/js/main.b745e87f.js",
+    "main.js": "/gb-cards/static/js/main.cdd6fc6d.js",
     "static/js/787.58dce099.chunk.js": "/gb-cards/static/js/787.58dce099.chunk.js",
     "static/media/cast-00.png": "/gb-cards/static/media/cast-00.e812f221d27b7cb34947.png",
     "static/media/steeljaw-00.png": "/gb-cards/static/media/steeljaw-00.cb357cc0a966f9d8a7e3.png",
@@ -329,11 +329,11 @@
     "static/media/Order_back.jpg": "/gb-cards/static/media/Order_back.0a7d445d7f43f6c53b65.jpg",
     "index.html": "/gb-cards/index.html",
     "main.cdc1159c.css.map": "/gb-cards/static/css/main.cdc1159c.css.map",
-    "main.b745e87f.js.map": "/gb-cards/static/js/main.b745e87f.js.map",
+    "main.cdd6fc6d.js.map": "/gb-cards/static/js/main.cdd6fc6d.js.map",
     "787.58dce099.chunk.js.map": "/gb-cards/static/js/787.58dce099.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdc1159c.css",
-    "static/js/main.b745e87f.js"
+    "static/js/main.cdd6fc6d.js"
   ]
 }
